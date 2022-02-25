@@ -1,5 +1,3 @@
-# hafta1-odev1-assignment-cigdemkocak
-
 <strong>Bir sayı dizisi ve hedef değeri veriliyor. Toplamı, hedefe eşit olan ikililerin indexlerini dönen fonksiyonu yazınız.</strong>
 
 Örnek 1:
